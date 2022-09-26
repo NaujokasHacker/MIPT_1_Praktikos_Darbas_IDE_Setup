@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         twMain = (TextView)findViewById(R.id.twMain);
+        //Test
 
     }
     public void onBtnChangeTextClick(View view){
